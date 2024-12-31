@@ -1,10 +1,10 @@
 # My Awesome Project 
 
-## 📋 Deskripsi  
+## Deskripsi  
 Ini adalah proyek saya.
 
-## 🛠️ Cara Instalasi  
+## Cara Instalasi  
 Clone repo. Instal dependensi. Jalankan app. 
 
-## 📖 Cara Penggunaan
+## Cara Penggunaan
 Lihat dokumentasi. 
