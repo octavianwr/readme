@@ -17,7 +17,7 @@ Proyek ini adalah aplikasi untuk mengelola tugas harian Anda dengan mudah dan ce
    ```bash  
    npm install
    ```
-3. Instal dependensi:
+3. Jalankan aplikasi:
    ```bash  
    npm start
    ```
